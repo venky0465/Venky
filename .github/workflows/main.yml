@@ -1,4 +1,4 @@
-name: RDP1
+name: RDP10
 
 on: [push, workflow_dispatch]
 
